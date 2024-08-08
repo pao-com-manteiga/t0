@@ -1,17 +1,12 @@
 {
-  "name": "@pao-com-manteiga/t0",
+  "name": "@pao-com-manteiga/t1",
   "appName": "Test",
-  "version": "0.0.1",
-  "description": "T1",
+  "version": "0.0.2",
+  "description": "v0.0.2",
   "packageType": "mods",
   "websiteURL": "https://www.braflix.ru",
   "author": "Pao com manteiga",
   "keys": [
-    "ArrowLeft",
-    "ArrowUp",
-    "ArrowRight",
-    "ArrowDown",
-    "Enter",
     "MediaPlayPause",
     "MediaPlay",
     "MediaPause",
@@ -22,6 +17,6 @@
     "MediaFastForward"
   ],
   "repository": {
-    "url": "https://github.com/pao-com-manteiga/t0"
+    "url": "https://github.com/pao-com-manteiga/t1"
   }
 }
