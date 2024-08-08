@@ -1,0 +1,23 @@
+{
+  "name": "@pao-com-manteiga/t0",
+  "appName": "Test",
+  "version": "0.0.1",
+  "description": "T0",
+  "packageType": "mods",
+  "websiteURL": "https://www.braflix.ru",
+  "main": "mods/userscript.js",
+  "author": "Pao com manteiga",
+  "keys": [
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaTrackPrevious",
+    "MediaTrackNext",
+    "MediaRewind",
+    "MediaFastForward"
+  ],
+  "repository": {
+    "url": "https://github.com/pao-com-manteiga/t0"
+  }
+}
