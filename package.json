@@ -1,7 +1,8 @@
 {
   "packageType": "mods",
-  "appName": "T3",
-  "appPath": "https://www.braflix.ru",
+  "appName": "T4",
+  "websiteURL": "https://www.braflix.ru",
+  "main": "mods/userscript.js",
   "keys": [
     "MediaPlayPause",
     "MediaPlay",
@@ -12,11 +13,11 @@
     "MediaRewind",
     "MediaFastForward"
   ],
-  "name": "@pao-com-manteiga/t3",
-  "version": "0.0.3",
-  "description": "v0.0.3",
+  "name": "@pao-com-manteiga/t4",
+  "version": "0.0.4",
+  "description": "v0.0.4",
   "author": "Pao com manteiga",
   "repository": {
-    "url": "https://github.com/pao-com-manteiga/t3"
+    "url": "https://github.com/pao-com-manteiga/t4"
   }
 }
